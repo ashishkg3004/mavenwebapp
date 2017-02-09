@@ -41,14 +41,14 @@
 					integration and continuous delivery of projects, regardless of the
 					platform you are working on. It is a free source that can handle
 					any kind of build or continuous integration. You can integrate
-					Jenkins with a number of testing and deployment technologies</p>
+					Jenkins with a number of testing and deployment technologies.</p>
 				<p>It is a great tool, but there are some issues regarding
 					scaling and performance (which is not so unusual). Other cool
 					solutions such as Travis and CircleCI, which are both hosted
 					solutions that do not require any maintenance on our side.</p>
 				<p>Jenkins is a software that allows continuous integration.
 					Jenkins will be installed on a server where the central build will
-					take place</p>
+					take place.</p>
 			</div>
 			<div id="tabs-2">
 				<p>
@@ -57,7 +57,7 @@
 						containerization</a> of applications allowing Devops to package any
 					application in a lightweight environment. The packaging is done in
 					a way which makes it as easy as installing a mobile app.It is
-					considered as most popular devops tools
+					considered as most popular devops tools.
 				</p>
 				<p>It&nbsp;is a application container platform for build, ship
 					and run your distributed apps.Ecosystem includes:</p>
